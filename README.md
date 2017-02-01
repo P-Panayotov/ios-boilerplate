@@ -2,12 +2,11 @@
 This project includes the bare minimum to start a fresh iOS app.
 The following frameworks are included as dependencies:
   1. [Alamofire](https://github.com/Alamofire/Alamofire)
-  2. [OjectMapperObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)
+  2. [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)
 
 ## Important
 This project uses [Carthage](https://github.com/Carthage/Carthage)
 run the following command from the ``Cartfile`` folder
-''''
 ```bash
 carthage update --platform iOS
 ```
